@@ -1,14 +1,4 @@
-# A simple, minimal Maven example: hello world
-
-To create the files in this git repo we've already run `mvn archetype:generate` from http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
-
-    mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
-
-Now, to print "Hello World!", type either...
-
-    cd my-app
-    mvn compile
-    java -cp target/classes com.mycompany.app.App
+hey this is dummy commit to check git + jenkins connectivity 
 
 or...
 
